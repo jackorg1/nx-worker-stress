@@ -1,5 +1,5 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudUrl": "https://snapshot.nx.app",
-  "nxCloudId": "6af1cb751b21701271dbb1f2"
+  "nxCloudUrl": "https://staging.nx.app",
+  "nxCloudId": "6af1f9c08d3cd86f3adae7d6"
 }
