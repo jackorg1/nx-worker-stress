@@ -1,0 +1,1 @@
+{ "name": "nx-worker-stress", "private": true, "devDependencies": { "nx": "24.0.5" } }

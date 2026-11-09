@@ -1,0 +1,9 @@
+launch-templates:
+  stress:
+    resource-class: 'docker_linux_amd64/small'
+    image: 'ubuntu22.04-node20.11-v10'
+    init-steps:
+      - name: Checkout
+        uses: 'nrwl/nx-cloud-workflows/v6/workflow-steps/checkout/main.yaml'
+      - name: Install Node Modules
+        uses: 'nrwl/nx-cloud-workflows/v6/workflow-steps/install-node-modules/main.yaml'

@@ -1,0 +1,9 @@
+{
+  "name": "p45",
+  "targets": {
+    "work": {
+      "command": "node -e \"setTimeout(()=>{},120000)\"",
+      "cache": false
+    }
+  }
+}
