@@ -2,7 +2,7 @@
   "name": "p06",
   "targets": {
     "work": {
-      "command": "node -e \"setTimeout(()=>{},120000)\"",
+      "command": "node -e \"setTimeout(()=>{},240000)\"",
       "cache": false
     }
   }
